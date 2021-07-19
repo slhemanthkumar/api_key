@@ -1,7 +1,0 @@
-name: API Key Setup
-description: This module helps to configure API key in the Site Information Page and used across portal 
-core: 8.x
-package: API KEY Setup
-type: module
-version: 1.0
-configure: api_key.admin_settings

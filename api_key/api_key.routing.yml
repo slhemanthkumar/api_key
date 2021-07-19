@@ -1,7 +1,0 @@
-api_key.json_api_pages:
-  path: '/page_json/{api_key}/{nid}'
-  defaults:
-    _controller: 'Drupal\api_key\Controller\ApiKeyPageController::index'
-    _title: 'API Key JSON api'
-  requirements:
-    _access: 'TRUE'
